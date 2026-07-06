@@ -41,7 +41,6 @@ const slides = [
   { src: "photos/19.jpg", title: "Somilon Islands",                loc: "Cebu, PH",              year: 2026 },
   { src: "photos/20.jpg", title: "Whale Watching, Oslob",                loc: "Cebu, PH",              year: 2026 },
   { src: "photos/21.jpg", title: "Yukga",                loc: "Cebu, PH",              year: 2026 },
-  { src: "photos/22.jpg", title: "Food",                loc: "Cebu, PH",              year: 2026 },
 
 ];
 
